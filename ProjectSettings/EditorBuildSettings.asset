@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: f72c03bbb9ea9bf4bbd7ccb4631350ac
+  - enabled: 1
+    path: Assets/Scenes/Level1WC.unity
+    guid: b873dd429522e8c4b9d1dd65859a1f38
+  - enabled: 1
+    path: Assets/Scenes/Level2WC.unity
+    guid: 517b7426c1c67044a8c58f460e31fca2
+  - enabled: 1
+    path: Assets/Scenes/Level3WC.unity
+    guid: 00feb2f51f75c124aa0262f50868db5e
+  - enabled: 1
+    path: Assets/Scenes/Level4WCA.unity
+    guid: d02e019b91aedca49a0b0987cf4f658c
+  - enabled: 1
+    path: Assets/Scenes/Level4WCB.unity
+    guid: cfdc99900520a90479b762a1381c07b2
+  - enabled: 1
+    path: Assets/Scenes/Level4WCC.unity
+    guid: 9b68fc2c60fc1a743a6092c9d4a1f2b9
+  - enabled: 1
+    path: Assets/Scenes/Level4WCD.unity
+    guid: d3e522699e31f8041b763fe3a31f7f69
+  - enabled: 1
+    path: Assets/Scenes/Level4WCE.unity
+    guid: 9dd783a4e6ad11243b970299b8f8a3ba
+  - enabled: 1
+    path: Assets/Scenes/Level5WCA.unity
+    guid: d0f207004049c3c42b6edd438c0e7e9c
+  - enabled: 1
+    path: Assets/Scenes/Level5WCB.unity
+    guid: 5e21b52ea044b3d4cbefcdf70cb9985f
+  - enabled: 1
+    path: Assets/Scenes/Level5WCC.unity
+    guid: e1df0c226a0a75446b50dc8880960cdf
+  - enabled: 1
+    path: Assets/Scenes/Level5WCD.unity
+    guid: 62f1437cd4a10124ebdfcfa2a96e9fda
+  - enabled: 1
+    path: Assets/Scenes/Level5WCE.unity
+    guid: 2f332496e6bd7334f9f48ce4640a45b2
+  - enabled: 1
+    path: Assets/Scenes/Level6WCA.unity
+    guid: f56f224c0b87e77459f4616cf40c2aa3
+  - enabled: 1
+    path: Assets/Scenes/Level6WCB.unity
+    guid: 98229a9ee8ab30d409b511329e44c019
+  - enabled: 1
+    path: Assets/Scenes/Level6WCC.unity
+    guid: fc06b5972358f504ba39769e6d41bbb5
+  - enabled: 1
+    path: Assets/Scenes/Level6WCD.unity
+    guid: 45fd2f211f789614aa3a3d547e3bdddb
+  - enabled: 1
+    path: Assets/Scenes/Level6WCE.unity
+    guid: 8e3f99e284c54c94baefe5ce2ef415cd
+  - enabled: 0
+    path: Assets/Scenes/LevelExtra1A.unity
+    guid: 709223a3c5d13464f99a797032035b87
+  - enabled: 0
+    path: Assets/Scenes/LevelExtra1B.unity
+    guid: 8717935487d8c3b48b4847ddc88b069b
+  - enabled: 0
+    path: Assets/Scenes/LevelEXTRA1C.unity
+    guid: 64dec176afe7d7f49a70c8d276ebaaf3
+  - enabled: 0
+    path: Assets/Scenes/LevelEXTRA1D.unity
+    guid: 8aaf729f346fccd47b3e319fd932230b
+  - enabled: 0
+    path: Assets/Scenes/LevelEXTRA1E.unity
+    guid: a090c1757959f8248835021612546064
+  - enabled: 0
+    path: Assets/Scenes/LevelEKSTRA2A.unity
+    guid: b3dc834688a55df439b668145ae38716
+  - enabled: 0
+    path: Assets/Scenes/LevelEKSTRA2B.unity
+    guid: 66200baa5a67afc4cb3e3516166433a7
+  - enabled: 0
+    path: Assets/Scenes/LevelEKSTRA2C.unity
+    guid: fb12c94fb5674b74d8752e86839da455
+  - enabled: 0
+    path: Assets/Scenes/LevelEKSTRA2D.unity
+    guid: f426576685cc19c428a8cce4a2eaf84a
+  - enabled: 0
+    path: Assets/Scenes/LevelEKSTRA2E.unity
+    guid: c666a1417f3b37249bc80b2c4aa4590b
+  - enabled: 0
+    path: Assets/Scenes/LevelEKSTRA3A.unity
+    guid: 7fdc0f06710b58e47bf4ecf4b4206632
+  - enabled: 0
+    path: Assets/Scenes/LevelEKSTRA4.unity
+    guid: 71efe6a2708f4524a8c554752883e45e
+  - enabled: 0
+    path: Assets/Scenes/Level7WCX.unity
+    guid: b592971bad813d440914be0c3ed8d9cb
+  - enabled: 1
+    path: Assets/Scenes/BoxGame/Level1.unity
+    guid: c4641ea2893855a47bbe4eb9bb435672
+  - enabled: 1
+    path: Assets/Scenes/BoxGame/Level2.unity
+    guid: 14ae76029e188c046a6b0c09c461776f
+  - enabled: 1
+    path: Assets/Scenes/BoxGame/Level3.unity
+    guid: d14ff010742257b4daa36436515ea730
+  - enabled: 1
+    path: Assets/Scenes/BoxGame/Level4.unity
+    guid: dd01b298b052f594aacc0f773d124182
+  - enabled: 1
+    path: Assets/Scenes/BoxGame/Level5.unity
+    guid: 81b966b5efa6ae249935c8ac95b014d8
+  - enabled: 1
+    path: Assets/Scenes/BoxGame/Level6.unity
+    guid: 62de0df5bef478741bc91c8fdfcaf853
+  - enabled: 1
+    path: Assets/Scenes/BoxGame/Level7.unity
+    guid: 3ea5243e80a066546955d26a054e825a
+  - enabled: 1
+    path: Assets/Scenes/BoxGame/Level8.unity
+    guid: 46593a89b57577a4a8fd45fa763982f5
+  - enabled: 1
+    path: Assets/Scenes/RLS.unity
+    guid: 117543bff8f44e3418adad79fa07d7c7
+  - enabled: 1
+    path: Assets/Scenes/EXP2_MIEMO.unity
+    guid: 6707527a2119e56419fd75c35ae2d227
+  - enabled: 1
+    path: Assets/Scenes/ImagePause1.unity
+    guid: 370f177f44b9d9c4b9d9d31d9bcd9f1e
+  - enabled: 1
+    path: Assets/Scenes/ImagePause2.unity
+    guid: 2791c2af629045c4cb7507adbc22ec75
+  m_configObjects: {}

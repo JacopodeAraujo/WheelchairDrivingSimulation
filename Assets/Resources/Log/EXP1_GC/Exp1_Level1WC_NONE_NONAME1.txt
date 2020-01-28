@@ -1,0 +1,35 @@
+Exp1
+Subject: NONAME
+Date and start time: 06-05-2019 10:21:02
+
+Ctrl Int: NONE
+Level: Level1WC
+Subject performance for different control interfaces. This list contains subject world coordinate points during trial among what interface he is using. 
+Image of trail path is available.
+
+
+______________________________________________________________________________________
+
+
+Position 	 Time
+-------------------------------------------------------------------------------------
+(1,0, 1,1, 1,0)	0,0060081	
+(1,2, 1,1, 1,0)	1,3065281	
+(2,1, 1,1, 1,2)	2,3166085	
+(3,7, 1,1, 1,9)	3,330149	
+(5,9, 1,1, 2,9)	4,3362068	
+(8,4, 1,1, 4,4)	5,3367465	
+(11,0, 1,1, 6,6)	6,3457983	
+(12,6, 1,1, 9,8)	7,3518459	
+(14,6, 1,1, 13,2)	8,3689277	
+(16,2, 1,1, 15,1)	9,378	
+(16,4, 1,1, 15,3)	9,7550826	
+
+TrailTime: 9,7550826 s
+Obstacle Hits: 0
+Spawns: 0
+
+
+End time: 06-05-2019 10:21:12
+Total experiment time: 00:00:09.7550826
+End of logging

@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 2f662c46038bc1644a3f2e13c7000ba3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Camera.target
+    100004: CAR_01
+    100006: CAR_02
+    100008: CAR_03
+    100010: Car_04
+    100012: Car_05
+    100014: Car_06
+    100016: Car_07
+    100018: Car_08
+    100020: Car_09
+    100022: Car_10
+    100024: Car_11
+    100026: Car_12
+    100028: Lensflare_
+    100030: //RootNode
+    100032: Moon
+    100034: Moon_Light
+    100036: Physical_S
+    100038: Plane
+    100040: Shadow_Pla
+    100042: Sky_Dome
+    100044: Sky_Null
+    100046: Sun
+    100048: Sun_light
+    400000: Camera
+    400002: Camera.target
+    400004: CAR_01
+    400006: CAR_02
+    400008: CAR_03
+    400010: Car_04
+    400012: Car_05
+    400014: Car_06
+    400016: Car_07
+    400018: Car_08
+    400020: Car_09
+    400022: Car_10
+    400024: Car_11
+    400026: Car_12
+    400028: Lensflare_
+    400030: //RootNode
+    400032: Moon
+    400034: Moon_Light
+    400036: Physical_S
+    400038: Plane
+    400040: Shadow_Pla
+    400042: Sky_Dome
+    400044: Sky_Null
+    400046: Sun
+    400048: Sun_light
+    2100000: Mat
+    2100002: CAR_01
+    2100004: CAR_02
+    2100006: CAR_03
+    2100008: CAR_04
+    2100010: CAR_05
+    2100012: CAR_06
+    2100014: CAR_07
+    2100016: CAR_08
+    2100018: CAR_09
+    2100020: CAR_10
+    2100022: CAR_11
+    2100024: CAR_12
+    2300000: CAR_01
+    2300002: CAR_02
+    2300004: CAR_03
+    2300006: Car_04
+    2300008: Car_05
+    2300010: Car_06
+    2300012: Car_07
+    2300014: Car_08
+    2300016: Car_09
+    2300018: Car_10
+    2300020: Car_11
+    2300022: Car_12
+    2300024: Moon
+    2300026: Physical_S
+    2300028: Plane
+    2300030: Shadow_Pla
+    2300032: Sky_Null
+    2300034: Sun
+    3300000: CAR_01
+    3300002: CAR_02
+    3300004: CAR_03
+    3300006: Car_04
+    3300008: Car_05
+    3300010: Car_06
+    3300012: Car_07
+    3300014: Car_08
+    3300016: Car_09
+    3300018: Car_10
+    3300020: Car_11
+    3300022: Car_12
+    3300024: Moon
+    3300026: Physical_S
+    3300028: Plane
+    3300030: Shadow_Pla
+    3300032: Sky_Null
+    3300034: Sun
+    4300000: Plane
+    4300002: Car_12
+    4300004: Car_11
+    4300006: Car_10
+    4300008: Car_09
+    4300010: Car_08
+    4300012: Car_07
+    4300014: Car_06
+    4300016: Car_05
+    4300018: Car_04
+    4300020: CAR_03
+    4300022: CAR_02
+    4300024: CAR_01
+    4300026: Physical_S
+    4300028: Sky_Null
+    4300030: Sun
+    4300032: Moon
+    4300034: Shadow_Pla
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

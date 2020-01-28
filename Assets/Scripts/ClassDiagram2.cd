@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UI_GazeControl" Collapsed="true">
+    <Position X="58" Y="45.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgCAABCgABAKAODQABAAAQgBBIAIIGAAIBAAACAA=</HashCode>
+      <FileName>Assets\Scripts\UI_GazeControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CIButton" Collapsed="true">
+    <Position X="55.25" Y="42.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAAAAAAAAAAAAAAAAAAAIAAAAAAAAGAA=</HashCode>
+      <FileName>Assets\Scripts\CIButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControlInterface" Collapsed="true">
+    <Position X="58" Y="41.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQQAQAAAYCANEQAEBAIAIAAI5EAgECAAIACAAAEAAIA=</HashCode>
+      <FileName>Assets\Scripts\ControlInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DestinationReachWC" Collapsed="true">
+    <Position X="63" Y="42.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAgEDABARgCAAAIAAAAAAAQAIAAQAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\DestinationReachWC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DetailsScript" Collapsed="true">
+    <Position X="65" Y="42.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUQAQABQAAAAFAAIAAAAAABABVAAwAkBEAAQAAABgA=</HashCode>
+      <FileName>Assets\Scripts\DetailsScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManagerWC" Collapsed="true">
+    <Position X="63" Y="43.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEECAAAAAAAACIAACAAAAAAAABAggCIAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\GameManagerWC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GazeVectorControl" Collapsed="true">
+    <Position X="56" Y="45.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAKgAAAAABJAMBAYCUAAQACEICIAACAAACAA=</HashCode>
+      <FileName>Assets\Scripts\GazeVectorControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoToGazeInterface" Collapsed="true">
+    <Position X="57" Y="43.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAYQhCEQAKACAQAABAcAAAAYABAACAMJAQAIAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\GoToGazeInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="levelComplete" Collapsed="true">
+    <Position X="65" Y="43.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAgQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\levelComplete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger" Collapsed="true">
+    <Position X="60.5" Y="39.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAAhAACAAAEgAIAACAgEAwAAARAEACUAAAAAFAgA=</HashCode>
+      <FileName>Assets\Scripts\Logger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerCollision" Collapsed="true">
+    <Position X="59.75" Y="40" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQBAQAACAAAAAAAAAAAAAMAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerCollision.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="TrailTrackingLog" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="StartMenuScript" Collapsed="true">
+    <Position X="65" Y="41.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAByAQGAEAAAUAEBAAgBABACMQKMAAEAAgAgEAhA=</HashCode>
+      <FileName>Assets\Scripts\StartMenuScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StdCtrlInterface" Collapsed="true">
+    <Position X="59" Y="43.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABCAQIAiBEIAYIQGAAxEAECAAACAiAQRgIAAIACoA=</HashCode>
+      <FileName>Assets\Scripts\StdCtrlInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrailTrackingLog" Collapsed="true">
+    <Position X="61.5" Y="40" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABSBBkAAACABQBgCIQAoIgBFgAECAAAAIAAAAQAACEI=</HashCode>
+      <FileName>Assets\Scripts\TrailTrackingLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserInterface" Collapsed="true">
+    <Position X="55.25" Y="41.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAACAgAAiAAJhCAkECAEAIkAAECAQAIgAAAIAKAmIA=</HashCode>
+      <FileName>Assets\Scripts\UserInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HMDControl" Collapsed="true">
+    <Position X="53.25" Y="43.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAACAFBAAAAAAAAACAAAAAAAAAAAAIAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\HMD\HMDControl.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FoveInterfaceBase" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="VRStandardAssets.Utils.Reticle" Collapsed="true">
+    <Position X="50.5" Y="47.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAIAAEAkABAIAACCEAgAAAAAAAAAAAUA=</HashCode>
+      <FileName>Assets\Scripts\HMD\Reticle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRStandardAssets.Utils.SelectionRadial" Collapsed="true">
+    <Position X="52.25" Y="47.75" Width="1.5" />
+    <AssociationLine Name="GoToGazeInterface" Type="GoToGazeInterface" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="52.469" Y="47.75" />
+        <Point X="52.469" Y="44.52" />
+        <Point X="55.223" Y="44.52" />
+        <Point X="55.223" Y="43.938" />
+        <Point X="57" Y="43.938" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AEAAQAIAACAAAAAiEAAAQAAEAAIEAgAAAAAABAIAgCA=</HashCode>
+      <FileName>Assets\Scripts\HMD\SelectionRadial.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GoToGazeInterface" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="VRStandardAssets.Utils.VREyeRaycaster" Collapsed="true">
+    <Position X="52.75" Y="46.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQABAIAGCIIBAAUAhQAIAABAAAAJAAIIACCQWoA=</HashCode>
+      <FileName>Assets\Scripts\HMD\VREyeRaycaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRStandardAssets.Utils.VRInteractiveItem" Collapsed="true">
+    <Position X="54" Y="47.75" Width="1.5" />
+    <AssociationLine Name="GazeVectorControl" Type="GazeVectorControl" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="55.375" Y="47.875" />
+        <Point X="56.938" Y="47.875" />
+        <Point X="56.938" Y="45.941" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="UI_GazeControl" Type="UI_GazeControl" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="55.5" Y="48.125" />
+        <Point X="58.5" Y="48.125" />
+        <Point X="58.5" Y="45.941" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="GoToGazeInterface" Type="GoToGazeInterface" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="55.215" Y="47.75" />
+        <Point X="55.215" Y="44.312" />
+        <Point X="57" Y="44.312" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>wAAAAAYAACACAAAhAAIAAQCKAgAAAAgBAAAIBAAAAgI=</HashCode>
+      <FileName>Assets\Scripts\HMD\VRInteractiveItem.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GazeVectorControl" />
+      <Property Name="UI_GazeControl" />
+      <Property Name="GoToGazeInterface" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Bci_control" Collapsed="true">
+    <Position X="59.75" Y="45.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCUgUAAAAGAgAkAAADIABBgCAiQAhAEACAAAIgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BCI\Bci_control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Communicationwithpython" Collapsed="true">
+    <Position X="62.75" Y="45.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAJKAAAgAAAAIAAAgACAEAAABAAAQAkAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\BCI\Communicationwithpython.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="readSocket" Collapsed="true">
+    <Position X="63" Y="47" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAIAQAAAAEAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BCI\readSocket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.FoveInterface2" Collapsed="true">
+    <Position X="50.75" Y="44.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAACAIAAAIAAACAABAAECAQCAgCAAAkE=</HashCode>
+      <FileName>Assets\FoveUnityPlugin\Source\Behaviours\FoveInterface2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.FoveInterfaceBase" Collapsed="true">
+    <Position X="50.75" Y="43.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AG0dIBgCkiAaAcpEBgkcIUWt6FIJIUnISIwmLhAaFEE=</HashCode>
+      <FileName>Assets\FoveUnityPlugin\Source\Behaviours\FoveInterfaceBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageToggle" Collapsed="true">
+    <Position X="73.5" Y="44.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAABAAAAAAAAUADgAAAAAAAwAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\EXP_BCI1\MIEMO\ImageToggle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageToggleDir" Collapsed="true">
+    <Position X="71.75" Y="44.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EXP_BCI1\MIEMO\ImageToggleDir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State1" Collapsed="true">
+    <Position X="69.5" Y="46" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAIAAAAAAAAQAAAAAAAAQAIABAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\EXP_BCI1\MIEMO\State1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State2" Collapsed="true">
+    <Position X="71.25" Y="46" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAEAABBAAAAIAIAQAAAiAAwBQAAAAAIQAMABAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\EXP_BCI1\MIEMO\State2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State3" Collapsed="true">
+    <Position X="73" Y="46" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAABAAAAAAIAAAAAAAAQAABAAAAAQAIABABAAAE=</HashCode>
+      <FileName>Assets\Scripts\EXP_BCI1\MIEMO\State3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State4" Collapsed="true">
+    <Position X="74.75" Y="46" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAIAAAAAAAAQAAAAAAAAQAIABAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\EXP_BCI1\MIEMO\State4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State5" Collapsed="true">
+    <Position X="76.5" Y="46" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAEAAIAAAAAAQIAAAAAAAgQAAAAAQAAQIJAFAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\EXP_BCI1\MIEMO\State5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateLogic" Collapsed="true">
+    <Position X="76.5" Y="43.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwBIQBIQKigiBhjKIMvhwRBQAAwAwYhAGDAI4AAE0g=</HashCode>
+      <FileName>Assets\Scripts\EXP_BCI1\MIEMO\StateLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EXP_StateMachine.StateMachine&lt;T&gt;" Collapsed="true">
+    <Position X="79" Y="43.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAAABAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EXP_BCI1\MIEMO\StateMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EXP_StateMachine.State&lt;T&gt;" Collapsed="true">
+    <Position X="76.5" Y="44.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAQAAAAAAAAAAIABAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EXP_BCI1\MIEMO\StateMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateT1" Collapsed="true">
+    <Position X="78.5" Y="46" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAIAAAAAAAAQAAAAAAAAQAIABAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\EXP_BCI1\TRAINMI\StateT1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateT2" Collapsed="true">
+    <Position X="80.25" Y="46" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAEAAAAAAAAEAIAAAAAAAAQAAAAAAIAQAIABAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\EXP_BCI1\TRAINMI\StateT2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateT3" Collapsed="true">
+    <Position X="82" Y="46" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAEAAABAAAAEAIAAAAAAAAQAAAAAAIAQAIABAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\EXP_BCI1\TRAINMI\StateT3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateT4" Collapsed="true">
+    <Position X="83.75" Y="46" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAIAAAAAAAAQAAAAAAAAQAIABAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\EXP_BCI1\TRAINMI\StateT4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

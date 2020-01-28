@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bci_control">
+    <Position X="1.25" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CCUgUAAAAGAgAkAAADIABBgCAiAAhAEACAAAIgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BCI\Bci_control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Communicationwithpython">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Communicationwithpython.Frompydata" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\BCI\Communicationwithpython.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAABAAJKAAAgAAAAIAAAgACAEAAABAAAQAkAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\BCI\Communicationwithpython.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="readSocket">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="readSocket.MatlabData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\BCI\readSocket.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAIAQAAAAEAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BCI\readSocket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraOrientation" Collapsed="true">
+    <Position X="9.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEASAQAAAAAAAAAAAAAAAAAUAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\CameraOrientation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CIButton" Collapsed="true">
+    <Position X="11.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAAAAAAAAAAAAAAAAAAAIAAAAAAAAGAA=</HashCode>
+      <FileName>Assets\Scripts\CIButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControlInterface" Collapsed="true">
+    <Position X="12.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQQASAAAYCANEQAEBAIAIAAI5EAgECAAIACAAAEAAIA=</HashCode>
+      <FileName>Assets\Scripts\ControlInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DestinationReachWC" Collapsed="true">
+    <Position X="22.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAgEDABARgCAAAIAAAAAAAQAIAAQAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\DestinationReachWC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DetailsScript" Collapsed="true">
+    <Position X="24.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUQAQABQAAAAFAAIAAAAAABABEAAwAEBEAAQAAABgA=</HashCode>
+      <FileName>Assets\Scripts\DetailsScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManagerWC" Collapsed="true">
+    <Position X="22.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEECAAAAAAAACIAACAAAAAAAABAggCIAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\GameManagerWC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GazeTargets" Collapsed="true">
+    <Position X="22.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAACAAAQAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GazeTargets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GazeVectorControl" Collapsed="true">
+    <Position X="13.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAKgAAAAABJAMBAYCUAAQACEICIAACAAACAA=</HashCode>
+      <FileName>Assets\Scripts\GazeVectorControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoToGazeInterface" Collapsed="true">
+    <Position X="12.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYQhCEQAKACAQAABAcAAAAYABAACAMJAQAIAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\GoToGazeInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="levelComplete" Collapsed="true">
+    <Position X="24.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAgQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\levelComplete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger" Collapsed="true">
+    <Position X="20.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAAhAACAAAEgAIAACAgEAwAAARAEACUAAAAAFAgA=</HashCode>
+      <FileName>Assets\Scripts\Logger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObstaclePush" Collapsed="true">
+    <Position X="26" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEIAAAAAAAAAAAEAAFAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ObstaclePush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PeopleMovement" Collapsed="true">
+    <Position X="24.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAQAACAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PeopleMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerCollision" Collapsed="true">
+    <Position X="16" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAABAQAACAAAAAAAAAAAAAMAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartMenuScript" Collapsed="true">
+    <Position X="20.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAyAQGAEAAAUAEBAAgBABACMQKEAAEAAgAgEABA=</HashCode>
+      <FileName>Assets\Scripts\StartMenuScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StdCtrlInterface" Collapsed="true">
+    <Position X="14" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABCAQIAgBEAAYIQGAAxEAECAAACAiAQRgIAAIACoA=</HashCode>
+      <FileName>Assets\Scripts\StdCtrlInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrailTrackingLog" Collapsed="true">
+    <Position X="15.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABSBBkAAACABQBgCIQAoIgBFgAECAAAAIAAAAQAACEI=</HashCode>
+      <FileName>Assets\Scripts\TrailTrackingLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrickTriggerScript" Collapsed="true">
+    <Position X="22.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAQAAAAAAAAAAAAAVAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\TrickTriggerScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrickTriggerScript2" Collapsed="true">
+    <Position X="20.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwBAAAAACAAAAAAAIQgAAAAAAAAAQAARAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\TrickTriggerScript2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI_GazeControl" Collapsed="true">
+    <Position X="15" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgCAABCgABAKAODQABAAAQgBBIAIIGAAIBAAACAA=</HashCode>
+      <FileName>Assets\Scripts\UI_GazeControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserInterface" Collapsed="true">
+    <Position X="10.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAACAgAAiAABhCAkECAEAIkAAECAQAIgAAAIAKAmIA=</HashCode>
+      <FileName>Assets\Scripts\UserInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleCollision" Collapsed="true">
+    <Position X="20.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\VehicleCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
